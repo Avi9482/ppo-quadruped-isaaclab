@@ -5,7 +5,6 @@
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=flat-square&logo=python)
 ![PyTorch](https://img.shields.io/badge/PyTorch-CUDA-EE4C2C?style=flat-square&logo=pytorch)
 ![Isaac Lab](https://img.shields.io/badge/NVIDIA-Isaac%20Lab-76B900?style=flat-square&logo=nvidia)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Ubuntu-lightgrey?style=flat-square)
 
 **A deep reinforcement learning framework for training quadruped robots to achieve stable, adaptive locomotion in simulation using Proximal Policy Optimization (PPO) on the NVIDIA Isaac Lab platform.**
