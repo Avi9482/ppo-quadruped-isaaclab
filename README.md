@@ -1,6 +1,7 @@
 # PPO-Based Adaptive Locomotion for Quadruped Robots
 
 <div align="center">
+    
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=flat-square&logo=python)
 ![PyTorch](https://img.shields.io/badge/PyTorch-CUDA-EE4C2C?style=flat-square&logo=pytorch)
 ![Isaac Lab](https://img.shields.io/badge/NVIDIA-Isaac%20Lab-76B900?style=flat-square&logo=nvidia)
